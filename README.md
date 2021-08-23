@@ -1,2 +1,2 @@
 # Boardroom-DAO-Hackathon
-participation on Hackathon by GItcoin
+participation on Hackathon by Gitcoin
